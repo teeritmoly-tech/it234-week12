@@ -1,7 +1,7 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
-  "studentId": "6XXXXXXXXX",
+  "shopName": "กาแฟIT☕",
+  "owner": "Teerit Molyoopanao",
+  "studentId": "1680701198",
   "ownerPhone": "081-234-5678",
   "products": [
     {
@@ -16,7 +16,7 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🥤",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
@@ -25,8 +25,15 @@
       "name": "ครัวซองต์",
       "price": 60,
       "emoji": "🥐",
-      "available": false,
+      "available": true,
       "tags": ["เบเกอรี่"]
-    }
+    },
+    {
+      "id": 4,
+      "name": "ชาเขียวเย็น",
+      "price": 60,
+      "emoji": "🍵",
+      "available": true,
+      "tags": ["ชา", "เย็น", "ขายดี"]
   ]
 }
